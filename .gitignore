@@ -1,0 +1,13 @@
+.cache
+.DS_Store
+.history
+.lib/
+*.class
+*.log
+dist/*
+lib_managed/
+project/boot/
+project/plugins/project/
+src_managed/
+target
+target/
